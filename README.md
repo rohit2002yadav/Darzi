@@ -68,7 +68,7 @@ This repository is a **monorepo** containing both:
 ```bash
 cd backend
 npm install
-npm start
+npm start OR npx nodemon server.js
 
 ### Frontend
 ```bash
